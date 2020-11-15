@@ -1,0 +1,3 @@
+python convert_to_onnx_rescdn18_224.py
+python convert_to_onnx_rescdn18_384.py 
+python convert_to_onnx_rescdn18_512.py
